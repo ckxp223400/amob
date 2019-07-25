@@ -1,2 +1,2 @@
-# amob
+# Amob
 I love Isue
